@@ -11,10 +11,9 @@
 
 ---
 
-### My projects
-
-1. **CPP-Calculator** - Calculator based on Qt/C++  
-2. **AutoScheduler** - Ecosystem for optimization and generation of schedules for educational institutions (WIP)
+### 🔭 My projects ###
+1. [CPP-Calculator](https://github.com/ваш-никнейм/cpp-calculator) - Calculator based on Qt/C++
+2. [AutoScheduler](https://github.com/ваш-никнейм/autoscheduler) - Ecosystem for optimization and generation of schedules for educational institutions (WIP)
 
 ---
 
